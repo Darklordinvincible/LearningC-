@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPworkspace" Database="">
+  <Project Name="COMPILER_ERRORS" Path="PROGRAM1/PROGRAM1.project" Active="No"/>
+  <Project Name="PROGRAM1" Path="PROGRAM2/PROGRAM2.project" Active="No"/>
+  <Environment>
+    <![CDATA[]]>
+  </Environment>
+  <Project Name="COMPILER_WARNINGS" Path="COMPILER_WARNINGS.project" Active="No"/>
+  <Project Name="Sample" Path="Sample/Sample.project" Active="Yes"/>
+  <Project Name="LINKER_ERRORS" Path="LINKER_ERRORS/LINKER_ERRORS.project" Active="No"/>
+  <Project Name="LOGIC_ERRORS" Path="LOGIC_ERRORS/LOGIC_ERRORS.project" Active="No"/>
+  <Project Name="PRACTICES" Path="PRACTICES/PRACTICES.project" Active="No"/>
+  <Project Name="SECTION5" Path="SECTION5/SECTION5.project" Active="No"/>
+  <Project Name="VARIABLES" Path="VARIABLES/VARIABLES.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="COMPILER_ERRORS" ConfigName="Debug"/>
+      <Project Name="PROGRAM1" ConfigName="Debug"/>
+      <Project Name="COMPILER_WARNINGS" ConfigName="Debug"/>
+      <Project Name="Sample" ConfigName="Debug"/>
+      <Project Name="LINKER_ERRORS" ConfigName="Debug"/>
+      <Project Name="LOGIC_ERRORS" ConfigName="Debug"/>
+      <Project Name="PRACTICES" ConfigName="Debug"/>
+      <Project Name="SECTION5" ConfigName="Debug"/>
+      <Project Name="VARIABLES" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="COMPILER_ERRORS" ConfigName="Release"/>
+      <Project Name="PROGRAM1" ConfigName="Release"/>
+      <Project Name="COMPILER_WARNINGS" ConfigName="Release"/>
+      <Project Name="Sample" ConfigName="Release"/>
+      <Project Name="LINKER_ERRORS" ConfigName="Release"/>
+      <Project Name="LOGIC_ERRORS" ConfigName="Release"/>
+      <Project Name="PRACTICES" ConfigName="Release"/>
+      <Project Name="SECTION5" ConfigName="Release"/>
+      <Project Name="VARIABLES" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
