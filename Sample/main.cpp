@@ -1,6 +1,9 @@
 #include <iostream>
-int (hello_world);
+
  int main(){
-     std::cout << "hello_world" << std::endl;
+using namespace std ;
+
+
+
      return 0;
  }

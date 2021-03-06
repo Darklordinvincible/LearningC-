@@ -1,0 +1,26 @@
+write a c++ program as follows:-
+
+1. Declare 2 empty vectors of integers named 
+vector_1 and vector_2 respectively
+
+2. Add 10 and 20 to vector_1 dynamically using push_back
+Display the elements in vector_1 using .at() method as well as its size using size() method
+
+3. Add 100 and 200 to vector_2 dynamically using push_back
+Display the element in vector_2 using .at() method as well as its size using size () method
+
+4. Declare an empty 2D vector called vector_2d
+Remember , that a 2D vector of vector<int>
+
+5. Add vector_1 to vector_2D dynamically using push_back
+ Add vector_2 to vector_2D dynamically using push_back
+
+6. Display the elements in vector_2d using  .at() method
+
+7. Change vector_1 .at(0) to 1000
+
+8. Display the element in vector_2D using the .at() method
+
+9. Display the element in vector_1
+
+10. What did you expect? did you get what you expected? what do you think happened?

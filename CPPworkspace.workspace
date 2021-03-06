@@ -15,7 +15,11 @@
   <Project Name="GLOBAL_VARIABLES" Path="GLOBAL_VARIABLES/GLOBAL_VARIABLES.project" Active="No"/>
   <Project Name="PRIMITIVE_TYPES" Path="PRIMITIVE_TYPES/PRIMITIVE_TYPES.project" Active="No"/>
   <Project Name="SIZEoFVARIABLES" Path="SIZEoFVARIABLES/SIZEoFVARIABLES.project" Active="No"/>
-  <Project Name="CONSTANTS" Path="CONSTANTS/CONSTANTS.project" Active="Yes"/>
+  <Project Name="CONSTANTS" Path="CONSTANTS/CONSTANTS.project" Active="No"/>
+  <Project Name="SECTION_6_CHALLANGE" Path="SECTION_6_CHALLANGE/SECTION_6_CHALLANGE.project" Active="No"/>
+  <Project Name="ARRAYS" Path="ARRAYS/ARRAYS.project" Active="No"/>
+  <Project Name="VECTORS" Path="VECTORS/VECTORS.project" Active="No"/>
+  <Project Name="SECTION_7_CHALLANGE" Path="SECTION_7_CHALLANGE/SECTION_7_CHALLANGE.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Project Name="COMPILER_ERRORS" ConfigName="Debug"/>
@@ -31,6 +35,10 @@
       <Project Name="PRIMITIVE_TYPES" ConfigName="Debug"/>
       <Project Name="SIZEoFVARIABLES" ConfigName="Debug"/>
       <Project Name="CONSTANTS" ConfigName="Debug"/>
+      <Project Name="SECTION_6_CHALLANGE" ConfigName="Debug"/>
+      <Project Name="ARRAYS" ConfigName="Debug"/>
+      <Project Name="VECTORS" ConfigName="Debug"/>
+      <Project Name="SECTION_7_CHALLANGE" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="COMPILER_ERRORS" ConfigName="Release"/>
@@ -46,6 +54,10 @@
       <Project Name="PRIMITIVE_TYPES" ConfigName="Release"/>
       <Project Name="SIZEoFVARIABLES" ConfigName="Release"/>
       <Project Name="CONSTANTS" ConfigName="Release"/>
+      <Project Name="SECTION_6_CHALLANGE" ConfigName="Release"/>
+      <Project Name="ARRAYS" ConfigName="Release"/>
+      <Project Name="VECTORS" ConfigName="Release"/>
+      <Project Name="SECTION_7_CHALLANGE" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
