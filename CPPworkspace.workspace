@@ -27,7 +27,9 @@
   <Project Name="INCRIMENT" Path="INCRIMENT/INCRIMENT.project" Active="No"/>
   <Project Name="MIXED_EXPRESSIONS" Path="MIXED_EXPRESSIONS/MIXED_EXPRESSIONS.project" Active="No"/>
   <Project Name="BOOLEAN_EXPRESSION" Path="BOOLEAN_EXPRESSION/BOOLEAN_EXPRESSION.project" Active="No"/>
-  <Project Name="RATIONAL_OPERATORS" Path="RATIONAL_OPERATORS/RATIONAL_OPERATORS.project" Active="Yes"/>
+  <Project Name="RATIONAL_OPERATORS" Path="RATIONAL_OPERATORS/RATIONAL_OPERATORS.project" Active="No"/>
+  <Project Name="LOGICAL_OPERATOR" Path="LOGICAL_OPERATOR/LOGICAL_OPERATOR.project" Active="No"/>
+  <Project Name="SECTION8_CHALLANGE" Path="SECTION8_CHALLANGE/SECTION8_CHALLANGE.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Project Name="COMPILER_ERRORS" ConfigName="Debug"/>
@@ -56,6 +58,8 @@
       <Project Name="MIXED_EXPRESSIONS" ConfigName="Debug"/>
       <Project Name="BOOLEAN_EXPRESSION" ConfigName="Debug"/>
       <Project Name="RATIONAL_OPERATORS" ConfigName="Debug"/>
+      <Project Name="LOGICAL_OPERATOR" ConfigName="Debug"/>
+      <Project Name="SECTION8_CHALLANGE" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="COMPILER_ERRORS" ConfigName="Release"/>
@@ -84,6 +88,8 @@
       <Project Name="MIXED_EXPRESSIONS" ConfigName="Release"/>
       <Project Name="BOOLEAN_EXPRESSION" ConfigName="Release"/>
       <Project Name="RATIONAL_OPERATORS" ConfigName="Release"/>
+      <Project Name="LOGICAL_OPERATOR" ConfigName="Release"/>
+      <Project Name="SECTION8_CHALLANGE" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

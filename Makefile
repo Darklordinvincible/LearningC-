@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ RATIONAL_OPERATORS - Debug ]----------"
-	@cd "RATIONAL_OPERATORS" && "$(MAKE)" -f  "RATIONAL_OPERATORS.mk"
+	@echo "----------Building project:[ SECTION8_CHALLANGE - Debug ]----------"
+	@cd "SECTION8_CHALLANGE" && "$(MAKE)" -f  "SECTION8_CHALLANGE.mk"
 clean:
-	@echo "----------Cleaning project:[ RATIONAL_OPERATORS - Debug ]----------"
-	@cd "RATIONAL_OPERATORS" && "$(MAKE)" -f  "RATIONAL_OPERATORS.mk" clean
+	@echo "----------Cleaning project:[ SECTION8_CHALLANGE - Debug ]----------"
+	@cd "SECTION8_CHALLANGE" && "$(MAKE)" -f  "SECTION8_CHALLANGE.mk" clean
