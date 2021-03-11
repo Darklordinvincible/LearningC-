@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ SECTION8_CHALLANGE - Debug ]----------"
-	@cd "SECTION8_CHALLANGE" && "$(MAKE)" -f  "SECTION8_CHALLANGE.mk"
+	@echo "----------Building project:[ if_nest_Shipping - Debug ]----------"
+	@cd "if_nest_Shipping" && "$(MAKE)" -f  "if_nest_Shipping.mk"
 clean:
-	@echo "----------Cleaning project:[ SECTION8_CHALLANGE - Debug ]----------"
-	@cd "SECTION8_CHALLANGE" && "$(MAKE)" -f  "SECTION8_CHALLANGE.mk" clean
+	@echo "----------Cleaning project:[ if_nest_Shipping - Debug ]----------"
+	@cd "if_nest_Shipping" && "$(MAKE)" -f  "if_nest_Shipping.mk" clean

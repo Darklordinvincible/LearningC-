@@ -29,7 +29,12 @@
   <Project Name="BOOLEAN_EXPRESSION" Path="BOOLEAN_EXPRESSION/BOOLEAN_EXPRESSION.project" Active="No"/>
   <Project Name="RATIONAL_OPERATORS" Path="RATIONAL_OPERATORS/RATIONAL_OPERATORS.project" Active="No"/>
   <Project Name="LOGICAL_OPERATOR" Path="LOGICAL_OPERATOR/LOGICAL_OPERATOR.project" Active="No"/>
-  <Project Name="SECTION8_CHALLANGE" Path="SECTION8_CHALLANGE/SECTION8_CHALLANGE.project" Active="Yes"/>
+  <Project Name="SECTION8_CHALLANGE" Path="SECTION8_CHALLANGE/SECTION8_CHALLANGE.project" Active="No"/>
+  <Project Name="if_STATEMENTS" Path="if_STATEMENTS/if_STATEMENTS.project" Active="No"/>
+  <Project Name="if_else_STATEMENT" Path="if_else_STATEMENT/if_else_STATEMENT.project" Active="No"/>
+  <Project Name="if_nest_STATEMENT" Path="if_nest_STATEMENT/if_nest_STATEMENT.project" Active="No"/>
+  <Project Name="if_nest_Shipping" Path="if_nest_Shipping/if_nest_Shipping.project" Active="Yes"/>
+  <Project Name="smaple1" Path="smaple1/smaple1.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Project Name="COMPILER_ERRORS" ConfigName="Debug"/>
@@ -60,6 +65,11 @@
       <Project Name="RATIONAL_OPERATORS" ConfigName="Debug"/>
       <Project Name="LOGICAL_OPERATOR" ConfigName="Debug"/>
       <Project Name="SECTION8_CHALLANGE" ConfigName="Debug"/>
+      <Project Name="if_STATEMENTS" ConfigName="Debug"/>
+      <Project Name="if_else_STATEMENT" ConfigName="Debug"/>
+      <Project Name="if_nest_STATEMENT" ConfigName="Debug"/>
+      <Project Name="if_nest_Shipping" ConfigName="Debug"/>
+      <Project Name="smaple1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="COMPILER_ERRORS" ConfigName="Release"/>
@@ -90,6 +100,11 @@
       <Project Name="RATIONAL_OPERATORS" ConfigName="Release"/>
       <Project Name="LOGICAL_OPERATOR" ConfigName="Release"/>
       <Project Name="SECTION8_CHALLANGE" ConfigName="Release"/>
+      <Project Name="if_STATEMENTS" ConfigName="Release"/>
+      <Project Name="if_else_STATEMENT" ConfigName="Release"/>
+      <Project Name="if_nest_STATEMENT" ConfigName="Release"/>
+      <Project Name="if_nest_Shipping" ConfigName="Release"/>
+      <Project Name="smaple1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
